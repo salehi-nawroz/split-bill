@@ -46,6 +46,4 @@ src/
 │── index.js
 │── index.css
 
----
-## 🔗 Link to live demo: 
 
