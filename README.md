@@ -1,4 +1,4 @@
-# 🎒 Split Bill with friends (React)
+# 💸 Split Bill with friends (React)
 
 A simple React application that helps a person to split a bill with friends and everyone needs to pay his/her portion.
 
