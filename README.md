@@ -39,11 +39,11 @@ This project showcases fundamental React concepts, including:
 ---
 
 ## 📂 Project Structure
-public/
-├── index.html
-src/
-│── App.js
-│── index.js
-│── index.css
+* public/
+   * index.html
+* src/
+   * App.js
+   * index.js
+   * index.css
 
 
