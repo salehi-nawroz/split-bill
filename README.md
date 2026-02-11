@@ -5,6 +5,8 @@ A simple React application that helps a person to split a bill with friends and 
 This project is designed to demonstrate **core React fundamentals** using a practical, real-world example.
 
 ---
+# Live Demo
+[Demo of Split the Bill ](https://salehi-nawroz.github.io/split-bill)
 
 ## 🚀 Features
 
